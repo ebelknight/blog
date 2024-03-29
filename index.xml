@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COol Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on COol Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2024 23:43:17 +0530</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cool Poem</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 29 Mar 2024 23:43:17 +0530</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>Beyond the fields of right and wrong,&#xA;there&amp;rsquo;s a field..&#xA;I&amp;rsquo;ll meet you there.. - Rumi</description>
+    </item>
+  </channel>
+</rss>
